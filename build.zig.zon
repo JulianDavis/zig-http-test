@@ -1,0 +1,7 @@
+.{
+    .name = .zig_https_test,
+    .version = "0.0.1",
+    .minimum_zig_version = "0.15.2",
+    .paths = .{""},
+    .fingerprint = 0xb2ca73b3348ec92a,
+}
